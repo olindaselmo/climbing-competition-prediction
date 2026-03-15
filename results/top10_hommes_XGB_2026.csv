@@ -1,0 +1,31 @@
+discipline,firstname,lastname,country,prob_top10,age,height,arm_span,gender
+boulder,dohyun,lee,kor,1.0,20.5,178.0,,male
+boulder,meichi,narasaki,jpn,1.0,25.0,188.0,,male
+boulder,mejdi,schalck,fra,1.0,20.0,172.0,,male
+boulder,paul,jenft,fra,1.0,21.0,198.0,194.0,male
+boulder,sohta,amagasa,jpn,1.0,24.0,176.0,,male
+boulder,toby,roberts,gbr,1.0,19.0,177.0,,male
+boulder,tomoa,narasaki,jpn,1.0,28.0,170.0,,male
+boulder,davi,carvalho peres,bra,0.9622496,25.0,182.0,186.0,male
+boulder,pan,yufei,chn,0.9292463,24.0,173.0,,male
+boulder,aleksey,rubtsov,rus,0.9159853,36.0,178.0,185.0,male
+lead,colin,duffy,usa,1.0,20.0,170.0,,male
+lead,dohyun,lee,kor,1.0,20.5,178.0,,male
+lead,hannes,van duysen,bel,1.0,19.0,175.0,,male
+lead,shion,omata,jpn,1.0,18.0,162.0,,male
+lead,sorato,anraku,jpn,1.0,18.0,168.0,,male
+lead,toby,roberts,gbr,1.0,19.0,177.0,,male
+lead,yannick,flohé,ger,1.0,25.0,178.0,,male
+lead,daniel,kontsch,aut,0.99880207,37.0,175.0,174.0,male
+lead,gorazd,dolanc,slo,0.9978446,42.0,,,male
+lead,jorge,macias,usa,0.99741167,25.0,188.0,190.0,male
+speed,kiromal,katibin,ina,1.0,24.0,,,male
+speed,leander,carmanns,ger,1.0,20.0,,,male
+speed,samuel,watson,usa,1.0,18.0,178.0,180.0,male
+speed,yaroslav,tkach,ukr,1.0,22.0,182.0,,male
+speed,bassa,mawem,fra,0.9365964,39.0,183.0,,male
+speed,zach,hammer,usa,0.935134,18.0,,,male
+speed,shouhong,chu,chn,0.91839373,17.0,,,male
+speed,raharjati,nursamsa,ina,0.9137001,23.0,,,male
+speed,michael,hom,usa,0.8987295,17.0,172.0,176.0,male
+speed,amir,maimuratov,kaz,0.87304217,29.0,182.0,,male

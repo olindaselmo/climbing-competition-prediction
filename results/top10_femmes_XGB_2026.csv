@@ -1,0 +1,31 @@
+discipline,firstname,lastname,country,prob_top10,age,height,arm_span,gender
+boulder,annie,sanders,usa,1.0,16.75,162.0,,female
+boulder,erin,mcneice,gbr,1.0,21.0,162.0,,female
+boulder,mao,nakamura,jpn,1.0,24.0,156.0,,female
+boulder,miho,nonaka,jpn,1.0,27.0,163.0,,female
+boulder,oriane,bertone,fra,1.0,18.5,164.0,,female
+boulder,janja,garnbret,slo,0.99135315,24.5,164.0,,female
+boulder,stasa,gejo,srb,0.9080201,26.0,175.0,185.0,female
+boulder,sovarae,sanders,usa,0.8559271,18.0,147.0,149.0,female
+boulder,hung ying,lee,tpe,0.8502696,39.0,170.0,,female
+boulder,jennifer eucharia,buckley,slo,0.80462235,17.0,169.0,,female
+lead,annie,sanders,usa,1.0,17.0,162.0,,female
+lead,erin,mcneice,gbr,1.0,20.666666666666668,161.33333333333334,,female
+lead,janja,garnbret,slo,1.0,24.666666666666668,164.0,,female
+lead,manon,hily,fra,1.0,30.0,154.0,,female
+lead,mia,krampl,slo,1.0,24.0,163.0,,female
+lead,rosa,rekar,slo,1.0,19.0,164.0,,female
+lead,ivon,lawerenz,ger,0.99975675,43.0,168.0,,female
+lead,jana,führer,slo,0.9993986,42.0,,,female
+lead,yumi,ejiri,jpn,0.9993986,42.0,,,female
+lead,masako,watanabe,jpn,0.999366,48.0,155.0,,female
+speed,aleksandra,miroslaw,pol,1.0,30.0,162.0,,female
+speed,emma,hunt,usa,1.0,21.0,173.0,,female
+speed,jimin,jeong,kor,1.0,20.0,,,female
+speed,lijuan,deng,chn,1.0,24.0,,,female
+speed,natalia,kalucka,pol,1.0,22.0,165.0,,female
+speed,shixue,meng,chn,1.0,17.0,,,female
+speed,yafei,zhou,chn,1.0,20.0,,,female
+speed,yumei,qin,chn,1.0,18.0,,,female
+speed,shaoqin,zhang,chn,0.9690445,25.0,,,female
+speed,emma,campa,ita,0.96393836,14.0,166.0,,female
