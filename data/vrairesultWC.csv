@@ -1,1 +1,61 @@
-
+athlete_id,rank,discipline,season,date,event_id,location,event_stage,firstname,lastname,age,gender,country,height,arm_span,birthdate,worldcup,event_type,total_points
+,1,boulder,2025,2025-10-31,9999,World Cup 2025,final,Oriane,BERTONE,,female,FRA,,,,True,season_total,4375
+,2,boulder,2025,2025-10-31,9999,World Cup 2025,final,Mao,NAKAMURA,,female,JPN,,,,True,season_total,3480
+,3,boulder,2025,2025-10-31,9999,World Cup 2025,final,Annie,SANDERS,,female,USA,,,,True,season_total,3290
+,4,boulder,2025,2025-10-31,9999,World Cup 2025,final,Melody,SEKIKAWA,,female,JPN,,,,True,season_total,2880
+,5,boulder,2025,2025-10-31,9999,World Cup 2025,final,Anon,MATSUFUJI,,female,JPN,,,,True,season_total,2670.8
+,6,boulder,2025,2025-10-31,9999,World Cup 2025,final,Erin,MCNEICE,,female,GBR,,,,True,season_total,2512.5
+,7,boulder,2025,2025-10-31,9999,World Cup 2025,final,Miho,NONAKA,,female,JPN,,,,True,season_total,2370
+,8,boulder,2025,2025-10-31,9999,World Cup 2025,final,Camilla,MORONI,,female,ITA,,,,True,season_total,2213
+,9,boulder,2025,2025-10-31,9999,World Cup 2025,final,Agathe,CALLIET,,female,FRA,,,,True,season_total,2116.3
+,10,boulder,2025,2025-10-31,9999,World Cup 2025,final,Zélia,AVEZOU,,female,FRA,,,,True,season_total,2035
+,1,lead,2025,2025-10-31,9999,World Cup 2025,final,Erin,MCNEICE,,female,GBR,,,,True,season_total,4502.5
+,2,lead,2025,2025-10-31,9999,World Cup 2025,final,Chaehyun,SEO,,female,KOR,,,,True,season_total,4462.5
+,3,lead,2025,2025-10-31,9999,World Cup 2025,final,Laura,ROGORA,,female,ITA,,,,True,season_total,3900
+,4,lead,2025,2025-10-31,9999,World Cup 2025,final,Annie,SANDERS,,female,USA,,,,True,season_total,3040
+,5,lead,2025,2025-10-31,9999,World Cup 2025,final,Rosa,REKAR,,female,SLO,,,,True,season_total,2520
+,6,lead,2025,2025-10-31,9999,World Cup 2025,final,Héloïse,DOUMONT,,female,BEL,,,,True,season_total,2047.5
+,7,lead,2025,2025-10-31,9999,World Cup 2025,final,Janja,GARNBRET,,female,SLO,,,,True,season_total,2000
+,8,lead,2025,2025-10-31,9999,World Cup 2025,final,Chaeyeong,KIM,,female,KOR,,,,True,season_total,1730
+,9,lead,2025,2025-10-31,9999,World Cup 2025,final,Mia,KRAMPL,,female,SLO,,,,True,season_total,1523
+,10,lead,2025,2025-10-31,9999,World Cup 2025,final,Manon,HILY,,female,FRA,,,,True,season_total,1495
+,1,speed,2025,2025-10-31,9999,World Cup 2025,final,Emma,HUNT,,female,USA,,,,True,season_total,3795
+,2,speed,2025,2025-10-31,9999,World Cup 2025,final,Yafei,ZHOU,,female,CHN,,,,True,season_total,3495
+,3,speed,2025,2025-10-31,9999,World Cup 2025,final,Desak MADE RITA KUSUMA,DEWI,,female,INA,,,,True,season_total,3390
+,4,speed,2025,2025-10-31,9999,World Cup 2025,final,Aleksandra,MIROSLAW,,female,POL,,,,True,season_total,3185
+,5,speed,2025,2025-10-31,9999,World Cup 2025,final,Jimin,JEONG,,female,KOR,,,,True,season_total,3170
+,6,speed,2025,2025-10-31,9999,World Cup 2025,final,Natalia,KALUCKA,,female,POL,,,,True,season_total,2745
+,7,speed,2025,2025-10-31,9999,World Cup 2025,final,Shaoqin,ZHANG,,female,CHN,,,,True,season_total,2465
+,8,speed,2025,2025-10-31,9999,World Cup 2025,final,Yumei,QIN,,female,CHN,,,,True,season_total,2270
+,9,speed,2025,2025-10-31,9999,World Cup 2025,final,Lijuan,DENG,,female,CHN,,,,True,season_total,2095
+,10,speed,2025,2025-10-31,9999,World Cup 2025,final,Shixue,MENG,,female,CHN,,,,True,season_total,2002
+,1,boulder,2025,2025-10-31,9999,World Cup 2025,final,Sorato,ANRAKU,,male,JPN,,,,True,season_total,5300
+,2,boulder,2025,2025-10-31,9999,World Cup 2025,final,Mejdi,SCHALCK,,male,FRA,,,,True,season_total,4145
+,3,boulder,2025,2025-10-31,9999,World Cup 2025,final,Sohta,AMAGASA,,male,JPN,,,,True,season_total,3240
+,4,boulder,2025,2025-10-31,9999,World Cup 2025,final,Dohyun,LEE,,male,KOR,,,,True,season_total,3105
+,5,boulder,2025,2025-10-31,9999,World Cup 2025,final,Hannes,VAN DUYSEN,,male,BEL,,,,True,season_total,2355
+,6,boulder,2025,2025-10-31,9999,World Cup 2025,final,Paul,JENFT,,male,FRA,,,,True,season_total,1965
+,7,boulder,2025,2025-10-31,9999,World Cup 2025,final,Tomoa,NARASAKI,,male,JPN,,,,True,season_total,1941
+,8,boulder,2025,2025-10-31,9999,World Cup 2025,final,Anze,PEHARC,,male,SLO,,,,True,season_total,1925
+,9,boulder,2025,2025-10-31,9999,World Cup 2025,final,Meichi,NARASAKI,,male,JPN,,,,True,season_total,1875
+,10,boulder,2025,2025-10-31,9999,World Cup 2025,final,Yufei,PAN,,male,CHN,,,,True,season_total,1764
+,1,lead,2025,2025-10-31,9999,World Cup 2025,final,Alberto,GINÉS LÓPEZ,,male,ESP,,,,True,season_total,4485
+,2,lead,2025,2025-10-31,9999,World Cup 2025,final,Sorato,ANRAKU,,male,JPN,,,,True,season_total,4145
+,3,lead,2025,2025-10-31,9999,World Cup 2025,final,Satone,YOSHIDA,,male,JPN,,,,True,season_total,4130
+,4,lead,2025,2025-10-31,9999,World Cup 2025,final,Neo,SUZUKI,,male,JPN,,,,True,season_total,3315
+,5,lead,2025,2025-10-31,9999,World Cup 2025,final,Dohyun,LEE,,male,KOR,,,,True,season_total,2950
+,6,lead,2025,2025-10-31,9999,World Cup 2025,final,Yannick,FLOHÉ,,male,GER,,,,True,season_total,2485
+,7,lead,2025,2025-10-31,9999,World Cup 2025,final,Filip,SCHENK,,male,ITA,,,,True,season_total,2245
+,8,lead,2025,2025-10-31,9999,World Cup 2025,final,Toby,ROBERTS,,male,GBR,,,,True,season_total,2240
+,9,lead,2025,2025-10-31,9999,World Cup 2025,final,Max,BERTONE,,male,FRA,,,,True,season_total,2195
+,10,lead,2025,2025-10-31,9999,World Cup 2025,final,Shion,OMATA,,male,JPN,,,,True,season_total,1866
+,1,speed,2025,2025-10-31,9999,World Cup 2025,final,Kiromal,KATIBIN,,male,INA,,,,True,season_total,3945
+,2,speed,2025,2025-10-31,9999,World Cup 2025,final,Samuel,WATSON,,male,USA,,,,True,season_total,3629
+,3,speed,2025,2025-10-31,9999,World Cup 2025,final,Ryo,OMASA,,male,JPN,,,,True,season_total,3410
+,4,speed,2025,2025-10-31,9999,World Cup 2025,final,Jianguo,LONG,,male,CHN,,,,True,season_total,3315
+,5,speed,2025,2025-10-31,9999,World Cup 2025,final,Shouhong,CHU,,male,CHN,,,,True,season_total,3110
+,6,speed,2025,2025-10-31,9999,World Cup 2025,final,Zach,HAMMER,,male,USA,,,,True,season_total,2946
+,7,speed,2025,2025-10-31,9999,World Cup 2025,final,Amir,MAIMURATOV,,male,KAZ,,,,True,season_total,2625
+,8,speed,2025,2025-10-31,9999,World Cup 2025,final,Raharjati,NURSAMSA,,male,INA,,,,True,season_total,2505
+,9,speed,2025,2025-10-31,9999,World Cup 2025,final,Leander,CARMANNS,,male,GER,,,,True,season_total,1990
+,10,speed,2025,2025-10-31,9999,World Cup 2025,final,Yaroslav,TKACH,,male,UKR,,,,True,season_total,1900
